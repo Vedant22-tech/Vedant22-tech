@@ -43,6 +43,12 @@
 
 </p>
 
+<p>
+  
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+</p>
+
 ## 🛠 Tools
 
 <p>
