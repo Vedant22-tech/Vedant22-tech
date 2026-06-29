@@ -48,7 +48,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant22-tech&layout=compact&theme=tokyonight)
 
 
-- ## 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p>
 
