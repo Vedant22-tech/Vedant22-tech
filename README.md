@@ -17,24 +17,6 @@
 - 🌱 Improving Data Structures & Algorithms
 - 🎯 Goal: Become a Software Engineer
 
-- ## 🌐 Connect With Me
-
-<p>
-
-<a href="https://www.linkedin.com/in/vedantnandanwar/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://github.com/Vedant22-tech">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="mailto:vedantnandanwar22@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-</p>
-
 ## 💻 Languages
 
 <p>
@@ -65,6 +47,21 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant22-tech&layout=compact&theme=tokyonight)
 
-## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=Vedant22-tech&style=for-the-badge)
+- ## 🌐 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/vedantnandanwar/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://github.com/Vedant22-tech">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="mailto:vedantnandanwar22@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+</p>
